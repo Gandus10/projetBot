@@ -1,4 +1,4 @@
-aiohttp==2.1.0
+aiohttp==3.7.4
 flake8==3.3.0
 pickleshare==0.7.4
 pydocstyle==1.1.1
